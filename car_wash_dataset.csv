@@ -1,0 +1,401 @@
+Date,Customer_ID,Car_Model,Car_Type,Service_Package,Price,Payment_Method,Washer_Name,Rating
+2025-05-15,CUST1000,BMW X5,Sedan,Basic Wash,10,Cash,Ali,4
+2025-05-18,CUST1001,BMW X5,Truck,Deluxe Wash,25,Mobile Pay,John,3
+2025-05-30,CUST1002,Kia Sportage,SUV,Deluxe Wash,25,Mobile Pay,Mike,5
+2025-05-16,CUST1003,Chevrolet Tahoe,SUV,Deluxe Wash,25,Card,John,4
+2025-05-09,CUST1004,Nissan Altima,Truck,Deluxe Wash,25,Card,Mike,3
+2025-05-26,CUST1005,Tesla Model 3,Truck,Deluxe Wash,25,Cash,John,3
+2025-05-16,CUST1006,Jeep Wrangler,Sedan,Premium Wash,30,Card,John,5
+2025-05-11,CUST1007,Honda Civic,Sedan,Premium Wash,30,Mobile Pay,John,4
+2025-05-28,CUST1008,Kia Sportage,Truck,Deluxe Wash,25,Mobile Pay,John,3
+2025-05-05,CUST1009,Jeep Wrangler,SUV,Premium Wash,30,Card,Ali,4
+2025-05-11,CUST1010,Jeep Wrangler,SUV,Premium Wash,30,Cash,Sara,5
+2025-05-07,CUST1011,Hyundai Elantra,Truck,Deluxe Wash,25,Mobile Pay,Sara,4
+2025-05-21,CUST1012,Jeep Wrangler,Sedan,Premium Wash,30,Card,Ali,3
+2025-05-20,CUST1013,Hyundai Elantra,SUV,Premium Wash,30,Card,Mike,3
+2025-05-11,CUST1014,Tesla Model 3,Truck,Premium Wash,30,Mobile Pay,Mike,4
+2025-05-04,CUST1015,Honda Civic,SUV,Basic Wash,10,Mobile Pay,Sara,4
+2025-05-28,CUST1016,Tesla Model 3,Truck,Basic Wash,10,Cash,John,5
+2025-05-24,CUST1017,Toyota Corolla,Truck,Premium Wash,30,Cash,John,3
+2025-05-31,CUST1018,Hyundai Elantra,Truck,Basic Wash,10,Mobile Pay,Sara,4
+2025-05-24,CUST1019,BMW X5,Sedan,Premium Wash,30,Mobile Pay,Mike,3
+2025-05-24,CUST1020,Nissan Altima,Sedan,Basic Wash,10,Cash,John,5
+2025-05-04,CUST1021,Ford F-150,SUV,Basic Wash,10,Cash,John,5
+2025-05-21,CUST1022,Kia Sportage,SUV,Premium Wash,30,Mobile Pay,Ali,5
+2025-05-04,CUST1023,Kia Sportage,Truck,Basic Wash,10,Mobile Pay,Sara,5
+2025-05-11,CUST1024,BMW X5,Truck,Basic Wash,10,Card,John,5
+2025-05-14,CUST1025,BMW X5,Truck,Basic Wash,10,Cash,Sara,3
+2025-05-24,CUST1026,Toyota Corolla,Sedan,Premium Wash,30,Card,John,4
+2025-05-03,CUST1027,Hyundai Elantra,SUV,Basic Wash,10,Mobile Pay,Ali,5
+2025-05-14,CUST1028,Jeep Wrangler,Sedan,Deluxe Wash,25,Card,John,3
+2025-05-16,CUST1029,Tesla Model 3,SUV,Basic Wash,10,Card,Mike,5
+2025-05-17,CUST1030,Kia Sportage,Truck,Basic Wash,10,Cash,John,3
+2025-05-03,CUST1031,Kia Sportage,Truck,Deluxe Wash,25,Mobile Pay,Sara,4
+2025-05-09,CUST1032,Nissan Altima,SUV,Deluxe Wash,25,Mobile Pay,Sara,3
+2025-05-10,CUST1033,Honda Civic,SUV,Basic Wash,10,Mobile Pay,Mike,5
+2025-05-22,CUST1034,Hyundai Elantra,Sedan,Basic Wash,10,Mobile Pay,Ali,4
+2025-05-09,CUST1035,Chevrolet Tahoe,Sedan,Deluxe Wash,25,Mobile Pay,Sara,3
+2025-05-18,CUST1036,Jeep Wrangler,Truck,Premium Wash,30,Card,Ali,5
+2025-05-09,CUST1037,Toyota Corolla,SUV,Deluxe Wash,25,Mobile Pay,John,3
+2025-05-13,CUST1038,Chevrolet Tahoe,Truck,Deluxe Wash,25,Cash,Ali,3
+2025-05-27,CUST1039,Kia Sportage,SUV,Deluxe Wash,25,Card,Mike,5
+2025-05-12,CUST1040,Jeep Wrangler,SUV,Basic Wash,10,Card,John,5
+2025-05-08,CUST1041,Jeep Wrangler,Truck,Basic Wash,10,Mobile Pay,Ali,5
+2025-05-16,CUST1042,BMW X5,SUV,Basic Wash,10,Card,Sara,5
+2025-05-15,CUST1043,Chevrolet Tahoe,SUV,Deluxe Wash,25,Mobile Pay,Mike,3
+2025-05-20,CUST1044,Toyota Corolla,Sedan,Deluxe Wash,25,Cash,Sara,4
+2025-05-14,CUST1045,Nissan Altima,Sedan,Premium Wash,30,Mobile Pay,Sara,3
+2025-05-23,CUST1046,Tesla Model 3,Truck,Basic Wash,10,Mobile Pay,Ali,3
+2025-05-08,CUST1047,Kia Sportage,Sedan,Deluxe Wash,25,Cash,Ali,4
+2025-05-21,CUST1048,Jeep Wrangler,Truck,Premium Wash,30,Mobile Pay,Sara,4
+2025-05-04,CUST1049,Kia Sportage,Sedan,Basic Wash,10,Cash,Ali,4
+2025-05-12,CUST1050,Honda Civic,SUV,Premium Wash,30,Cash,John,4
+2025-05-31,CUST1051,Hyundai Elantra,Truck,Basic Wash,10,Card,Mike,5
+2025-05-09,CUST1052,Ford F-150,SUV,Basic Wash,10,Mobile Pay,John,3
+2025-05-03,CUST1053,Chevrolet Tahoe,SUV,Basic Wash,10,Mobile Pay,Ali,5
+2025-05-05,CUST1054,Kia Sportage,SUV,Deluxe Wash,25,Cash,John,5
+2025-05-05,CUST1055,Hyundai Elantra,Sedan,Premium Wash,30,Mobile Pay,Ali,4
+2025-05-12,CUST1056,Ford F-150,Sedan,Basic Wash,10,Cash,Sara,5
+2025-05-16,CUST1057,Jeep Wrangler,Truck,Basic Wash,10,Cash,Mike,4
+2025-05-26,CUST1058,Hyundai Elantra,Sedan,Premium Wash,30,Mobile Pay,John,3
+2025-05-10,CUST1059,Jeep Wrangler,SUV,Basic Wash,10,Card,John,3
+2025-05-28,CUST1060,BMW X5,SUV,Deluxe Wash,25,Card,John,3
+2025-05-28,CUST1061,Hyundai Elantra,Truck,Premium Wash,30,Cash,Ali,3
+2025-05-16,CUST1062,Hyundai Elantra,SUV,Deluxe Wash,25,Card,John,4
+2025-05-10,CUST1063,Nissan Altima,Sedan,Basic Wash,10,Card,Ali,4
+2025-05-30,CUST1064,Kia Sportage,Truck,Deluxe Wash,25,Cash,Ali,5
+2025-05-20,CUST1065,Honda Civic,Truck,Premium Wash,30,Card,Sara,4
+2025-05-27,CUST1066,Nissan Altima,Truck,Deluxe Wash,25,Cash,Sara,4
+2025-05-30,CUST1067,BMW X5,Sedan,Deluxe Wash,25,Cash,John,3
+2025-05-21,CUST1068,Nissan Altima,Sedan,Premium Wash,30,Card,Ali,4
+2025-05-23,CUST1069,Kia Sportage,SUV,Premium Wash,30,Mobile Pay,John,3
+2025-05-19,CUST1070,Honda Civic,SUV,Premium Wash,30,Card,John,3
+2025-05-12,CUST1071,Jeep Wrangler,Truck,Premium Wash,30,Cash,Ali,3
+2025-05-23,CUST1072,Toyota Corolla,Sedan,Basic Wash,10,Mobile Pay,Mike,4
+2025-05-28,CUST1073,Chevrolet Tahoe,SUV,Deluxe Wash,25,Cash,Sara,3
+2025-05-19,CUST1074,Nissan Altima,Truck,Deluxe Wash,25,Card,Ali,4
+2025-05-30,CUST1075,Chevrolet Tahoe,Sedan,Deluxe Wash,25,Mobile Pay,Mike,4
+2025-05-14,CUST1076,Kia Sportage,SUV,Premium Wash,30,Cash,John,3
+2025-05-08,CUST1077,Chevrolet Tahoe,SUV,Basic Wash,10,Cash,Ali,3
+2025-05-13,CUST1078,Toyota Corolla,Sedan,Deluxe Wash,25,Cash,Ali,3
+2025-05-20,CUST1079,Toyota Corolla,Truck,Deluxe Wash,25,Mobile Pay,Ali,3
+2025-05-23,CUST1080,Chevrolet Tahoe,SUV,Basic Wash,10,Cash,Mike,5
+2025-05-31,CUST1081,Chevrolet Tahoe,Truck,Deluxe Wash,25,Card,Mike,4
+2025-05-21,CUST1082,Ford F-150,Truck,Premium Wash,30,Card,John,5
+2025-05-28,CUST1083,Chevrolet Tahoe,Sedan,Deluxe Wash,25,Card,John,3
+2025-05-30,CUST1084,Honda Civic,Sedan,Deluxe Wash,25,Card,John,3
+2025-05-03,CUST1085,Nissan Altima,Truck,Deluxe Wash,25,Cash,Ali,4
+2025-05-17,CUST1086,Honda Civic,Sedan,Deluxe Wash,25,Mobile Pay,Ali,4
+2025-05-03,CUST1087,Ford F-150,SUV,Premium Wash,30,Cash,Ali,3
+2025-05-19,CUST1088,Jeep Wrangler,Truck,Basic Wash,10,Cash,Mike,4
+2025-05-31,CUST1089,Nissan Altima,Truck,Premium Wash,30,Cash,Ali,5
+2025-05-24,CUST1090,Kia Sportage,Sedan,Basic Wash,10,Card,Sara,4
+2025-05-12,CUST1091,Kia Sportage,Sedan,Premium Wash,30,Cash,Mike,4
+2025-05-03,CUST1092,Nissan Altima,Truck,Premium Wash,30,Card,Ali,5
+2025-05-16,CUST1093,Toyota Corolla,SUV,Deluxe Wash,25,Card,Ali,5
+2025-05-27,CUST1094,Hyundai Elantra,SUV,Deluxe Wash,25,Cash,Sara,3
+2025-05-23,CUST1095,BMW X5,Sedan,Basic Wash,10,Card,Sara,4
+2025-05-10,CUST1096,BMW X5,Sedan,Deluxe Wash,25,Mobile Pay,Mike,4
+2025-05-02,CUST1097,Hyundai Elantra,Truck,Premium Wash,30,Mobile Pay,Mike,5
+2025-05-30,CUST1098,Toyota Corolla,SUV,Premium Wash,30,Card,John,5
+2025-05-31,CUST1099,Jeep Wrangler,Truck,Premium Wash,30,Cash,Ali,4
+2025-05-09,CUST1100,BMW X5,Sedan,Basic Wash,10,Card,John,5
+2025-05-18,CUST1101,Ford F-150,Sedan,Deluxe Wash,25,Card,Sara,5
+2025-05-20,CUST1102,Kia Sportage,Truck,Basic Wash,10,Cash,John,3
+2025-05-09,CUST1103,Tesla Model 3,Sedan,Basic Wash,10,Card,John,5
+2025-05-31,CUST1104,Chevrolet Tahoe,Truck,Basic Wash,10,Card,Sara,5
+2025-05-04,CUST1105,Kia Sportage,Truck,Premium Wash,30,Card,Mike,3
+2025-05-15,CUST1106,Chevrolet Tahoe,Truck,Deluxe Wash,25,Card,Mike,5
+2025-05-02,CUST1107,Ford F-150,Truck,Premium Wash,30,Card,Mike,5
+2025-05-05,CUST1108,Chevrolet Tahoe,Sedan,Deluxe Wash,25,Cash,John,5
+2025-05-22,CUST1109,Tesla Model 3,SUV,Deluxe Wash,25,Cash,Sara,5
+2025-05-07,CUST1110,Jeep Wrangler,SUV,Deluxe Wash,25,Mobile Pay,Mike,4
+2025-05-28,CUST1111,Jeep Wrangler,SUV,Premium Wash,30,Mobile Pay,Mike,5
+2025-05-06,CUST1112,Tesla Model 3,SUV,Premium Wash,30,Card,Sara,3
+2025-05-31,CUST1113,Nissan Altima,SUV,Basic Wash,10,Cash,Mike,4
+2025-05-09,CUST1114,Toyota Corolla,Truck,Deluxe Wash,25,Cash,Mike,4
+2025-05-13,CUST1115,Toyota Corolla,Truck,Deluxe Wash,25,Cash,John,5
+2025-05-20,CUST1116,Nissan Altima,Sedan,Basic Wash,10,Cash,Sara,4
+2025-05-06,CUST1117,Kia Sportage,Sedan,Premium Wash,30,Card,Ali,4
+2025-05-13,CUST1118,Honda Civic,Sedan,Deluxe Wash,25,Mobile Pay,Sara,4
+2025-05-24,CUST1119,Kia Sportage,Sedan,Premium Wash,30,Cash,Mike,4
+2025-05-03,CUST1120,BMW X5,Sedan,Basic Wash,10,Cash,Mike,5
+2025-05-31,CUST1121,BMW X5,Sedan,Premium Wash,30,Mobile Pay,Sara,4
+2025-05-24,CUST1122,Honda Civic,SUV,Basic Wash,10,Mobile Pay,John,3
+2025-05-22,CUST1123,Hyundai Elantra,SUV,Basic Wash,10,Mobile Pay,John,5
+2025-05-01,CUST1124,Chevrolet Tahoe,Sedan,Premium Wash,30,Cash,Mike,4
+2025-05-29,CUST1125,Honda Civic,Truck,Deluxe Wash,25,Card,Sara,4
+2025-05-17,CUST1126,Honda Civic,SUV,Deluxe Wash,25,Cash,Mike,3
+2025-05-27,CUST1127,Tesla Model 3,SUV,Deluxe Wash,25,Cash,Mike,3
+2025-05-06,CUST1128,Nissan Altima,SUV,Deluxe Wash,25,Card,Ali,4
+2025-05-03,CUST1129,Nissan Altima,Sedan,Premium Wash,30,Cash,John,5
+2025-05-22,CUST1130,Kia Sportage,Truck,Basic Wash,10,Cash,Sara,4
+2025-05-13,CUST1131,BMW X5,Sedan,Deluxe Wash,25,Cash,Ali,3
+2025-05-31,CUST1132,Jeep Wrangler,Truck,Basic Wash,10,Mobile Pay,John,3
+2025-05-15,CUST1133,Tesla Model 3,Truck,Premium Wash,30,Cash,Ali,3
+2025-05-11,CUST1134,Nissan Altima,SUV,Deluxe Wash,25,Card,John,4
+2025-05-12,CUST1135,Nissan Altima,Truck,Premium Wash,30,Mobile Pay,Mike,4
+2025-05-17,CUST1136,Kia Sportage,Sedan,Deluxe Wash,25,Card,Ali,4
+2025-05-14,CUST1137,Hyundai Elantra,Sedan,Premium Wash,30,Cash,John,5
+2025-05-14,CUST1138,Nissan Altima,Sedan,Deluxe Wash,25,Mobile Pay,Mike,3
+2025-05-27,CUST1139,Nissan Altima,Truck,Basic Wash,10,Mobile Pay,Sara,4
+2025-05-30,CUST1140,Tesla Model 3,Truck,Deluxe Wash,25,Card,Sara,4
+2025-05-30,CUST1141,Chevrolet Tahoe,SUV,Basic Wash,10,Card,John,3
+2025-05-08,CUST1142,Hyundai Elantra,Sedan,Premium Wash,30,Mobile Pay,Mike,3
+2025-05-23,CUST1143,Tesla Model 3,Truck,Premium Wash,30,Mobile Pay,John,5
+2025-05-20,CUST1144,Jeep Wrangler,Truck,Premium Wash,30,Mobile Pay,Ali,5
+2025-05-16,CUST1145,Kia Sportage,Truck,Basic Wash,10,Card,Ali,5
+2025-05-31,CUST1146,Jeep Wrangler,Sedan,Deluxe Wash,25,Mobile Pay,John,3
+2025-05-07,CUST1147,Nissan Altima,SUV,Deluxe Wash,25,Mobile Pay,John,3
+2025-05-24,CUST1148,Tesla Model 3,Truck,Premium Wash,30,Card,Sara,4
+2025-05-12,CUST1149,BMW X5,SUV,Deluxe Wash,25,Cash,Mike,5
+2025-05-26,CUST1150,Nissan Altima,SUV,Deluxe Wash,25,Mobile Pay,Sara,4
+2025-05-19,CUST1151,Tesla Model 3,Truck,Premium Wash,30,Cash,Mike,4
+2025-05-14,CUST1152,BMW X5,SUV,Deluxe Wash,25,Card,John,4
+2025-05-26,CUST1153,Chevrolet Tahoe,SUV,Premium Wash,30,Card,Mike,5
+2025-05-05,CUST1154,Hyundai Elantra,SUV,Deluxe Wash,25,Cash,Sara,5
+2025-05-11,CUST1155,Tesla Model 3,Sedan,Premium Wash,30,Mobile Pay,Sara,4
+2025-05-10,CUST1156,Ford F-150,Truck,Basic Wash,10,Cash,Ali,3
+2025-05-04,CUST1157,Jeep Wrangler,SUV,Basic Wash,10,Cash,Ali,3
+2025-05-17,CUST1158,Nissan Altima,Truck,Premium Wash,30,Card,John,4
+2025-05-22,CUST1159,Hyundai Elantra,Truck,Basic Wash,10,Cash,Ali,4
+2025-05-21,CUST1160,Honda Civic,Sedan,Premium Wash,30,Cash,John,3
+2025-05-28,CUST1161,Nissan Altima,Sedan,Basic Wash,10,Cash,John,3
+2025-05-15,CUST1162,Tesla Model 3,SUV,Premium Wash,30,Mobile Pay,Ali,4
+2025-05-15,CUST1163,Tesla Model 3,Sedan,Premium Wash,30,Card,Sara,4
+2025-05-17,CUST1164,Chevrolet Tahoe,SUV,Deluxe Wash,25,Card,Sara,5
+2025-05-31,CUST1165,Honda Civic,Sedan,Basic Wash,10,Card,Sara,3
+2025-05-07,CUST1166,BMW X5,Truck,Deluxe Wash,25,Mobile Pay,Mike,5
+2025-05-05,CUST1167,Toyota Corolla,SUV,Deluxe Wash,25,Cash,Ali,3
+2025-05-19,CUST1168,Jeep Wrangler,Sedan,Deluxe Wash,25,Cash,Sara,5
+2025-05-10,CUST1169,Ford F-150,Truck,Premium Wash,30,Mobile Pay,Ali,3
+2025-05-08,CUST1170,Tesla Model 3,SUV,Basic Wash,10,Mobile Pay,John,5
+2025-05-08,CUST1171,Hyundai Elantra,Sedan,Basic Wash,10,Cash,Sara,3
+2025-05-12,CUST1172,Hyundai Elantra,SUV,Premium Wash,30,Cash,Mike,3
+2025-05-09,CUST1173,Honda Civic,SUV,Deluxe Wash,25,Card,Sara,5
+2025-05-29,CUST1174,Tesla Model 3,SUV,Premium Wash,30,Card,John,4
+2025-05-18,CUST1175,Toyota Corolla,SUV,Basic Wash,10,Cash,Ali,5
+2025-05-24,CUST1176,Nissan Altima,Truck,Basic Wash,10,Mobile Pay,John,3
+2025-05-09,CUST1177,Chevrolet Tahoe,Truck,Basic Wash,10,Mobile Pay,John,4
+2025-05-23,CUST1178,Toyota Corolla,Sedan,Basic Wash,10,Card,John,3
+2025-05-04,CUST1179,Chevrolet Tahoe,Sedan,Premium Wash,30,Card,Ali,5
+2025-05-12,CUST1180,Ford F-150,SUV,Basic Wash,10,Cash,Mike,3
+2025-05-21,CUST1181,Honda Civic,Sedan,Premium Wash,30,Cash,John,4
+2025-05-21,CUST1182,Kia Sportage,Truck,Premium Wash,30,Mobile Pay,John,5
+2025-05-22,CUST1183,Nissan Altima,Truck,Basic Wash,10,Card,Ali,4
+2025-05-20,CUST1184,Tesla Model 3,SUV,Deluxe Wash,25,Card,Ali,4
+2025-05-09,CUST1185,Hyundai Elantra,SUV,Deluxe Wash,25,Mobile Pay,Ali,5
+2025-05-06,CUST1186,Toyota Corolla,SUV,Deluxe Wash,25,Mobile Pay,Ali,3
+2025-05-05,CUST1187,BMW X5,Sedan,Basic Wash,10,Mobile Pay,John,5
+2025-05-16,CUST1188,Ford F-150,SUV,Basic Wash,10,Card,John,4
+2025-05-17,CUST1189,Kia Sportage,Truck,Premium Wash,30,Card,Ali,3
+2025-05-11,CUST1190,Ford F-150,Truck,Premium Wash,30,Mobile Pay,Mike,3
+2025-05-23,CUST1191,Tesla Model 3,Truck,Premium Wash,30,Cash,John,3
+2025-05-04,CUST1192,Kia Sportage,Truck,Basic Wash,10,Mobile Pay,Sara,5
+2025-05-24,CUST1193,Hyundai Elantra,Sedan,Premium Wash,30,Cash,Mike,3
+2025-05-24,CUST1194,Honda Civic,SUV,Premium Wash,30,Mobile Pay,Mike,5
+2025-05-12,CUST1195,Toyota Corolla,Truck,Basic Wash,10,Mobile Pay,Mike,3
+2025-05-15,CUST1196,Jeep Wrangler,SUV,Basic Wash,10,Card,John,3
+2025-05-02,CUST1197,Kia Sportage,Sedan,Deluxe Wash,25,Mobile Pay,Mike,5
+2025-05-13,CUST1198,Chevrolet Tahoe,Truck,Basic Wash,10,Card,Sara,5
+2025-05-22,CUST1199,Toyota Corolla,SUV,Premium Wash,30,Mobile Pay,Mike,4
+2025-05-03,CUST1200,Tesla Model 3,Sedan,Basic Wash,10,Card,Mike,4
+2025-05-20,CUST1201,Jeep Wrangler,SUV,Deluxe Wash,25,Cash,Mike,3
+2025-05-02,CUST1202,Jeep Wrangler,Sedan,Basic Wash,10,Mobile Pay,Ali,4
+2025-05-13,CUST1203,Jeep Wrangler,Truck,Deluxe Wash,25,Card,Mike,3
+2025-05-05,CUST1204,Toyota Corolla,Sedan,Deluxe Wash,25,Cash,Mike,5
+2025-05-23,CUST1205,Tesla Model 3,Sedan,Deluxe Wash,25,Cash,Ali,4
+2025-05-20,CUST1206,Toyota Corolla,Sedan,Premium Wash,30,Card,Sara,4
+2025-05-23,CUST1207,Kia Sportage,SUV,Deluxe Wash,25,Cash,Sara,4
+2025-05-17,CUST1208,Honda Civic,Truck,Deluxe Wash,25,Cash,John,5
+2025-05-16,CUST1209,Kia Sportage,Truck,Deluxe Wash,25,Cash,Ali,3
+2025-05-19,CUST1210,Jeep Wrangler,SUV,Basic Wash,10,Mobile Pay,Ali,3
+2025-05-06,CUST1211,Jeep Wrangler,SUV,Premium Wash,30,Card,Sara,5
+2025-05-11,CUST1212,Toyota Corolla,Sedan,Basic Wash,10,Cash,Ali,4
+2025-05-18,CUST1213,Toyota Corolla,Truck,Deluxe Wash,25,Cash,Sara,3
+2025-05-13,CUST1214,Honda Civic,SUV,Premium Wash,30,Card,John,3
+2025-05-20,CUST1215,Toyota Corolla,Truck,Basic Wash,10,Card,Sara,4
+2025-05-02,CUST1216,BMW X5,SUV,Basic Wash,10,Mobile Pay,Sara,4
+2025-05-13,CUST1217,Chevrolet Tahoe,Sedan,Basic Wash,10,Card,Mike,3
+2025-05-09,CUST1218,BMW X5,Sedan,Deluxe Wash,25,Cash,Ali,3
+2025-05-03,CUST1219,Honda Civic,Truck,Premium Wash,30,Cash,Sara,3
+2025-05-29,CUST1220,BMW X5,Truck,Premium Wash,30,Cash,Mike,5
+2025-05-10,CUST1221,Toyota Corolla,Truck,Premium Wash,30,Card,Ali,5
+2025-05-04,CUST1222,Tesla Model 3,Sedan,Premium Wash,30,Mobile Pay,Mike,4
+2025-05-30,CUST1223,Nissan Altima,Sedan,Premium Wash,30,Card,Ali,3
+2025-05-14,CUST1224,Nissan Altima,Sedan,Basic Wash,10,Mobile Pay,Sara,3
+2025-05-19,CUST1225,Ford F-150,SUV,Basic Wash,10,Mobile Pay,John,4
+2025-05-04,CUST1226,Nissan Altima,SUV,Deluxe Wash,25,Cash,Mike,4
+2025-05-28,CUST1227,Ford F-150,Truck,Basic Wash,10,Mobile Pay,Mike,5
+2025-05-08,CUST1228,Hyundai Elantra,Truck,Premium Wash,30,Mobile Pay,John,4
+2025-05-25,CUST1229,Chevrolet Tahoe,Truck,Deluxe Wash,25,Mobile Pay,Sara,4
+2025-05-26,CUST1230,Jeep Wrangler,SUV,Premium Wash,30,Cash,Mike,4
+2025-05-04,CUST1231,Ford F-150,SUV,Basic Wash,10,Cash,Mike,5
+2025-05-22,CUST1232,Chevrolet Tahoe,SUV,Basic Wash,10,Cash,Mike,3
+2025-05-03,CUST1233,Ford F-150,Truck,Deluxe Wash,25,Cash,Ali,3
+2025-05-18,CUST1234,Nissan Altima,Sedan,Premium Wash,30,Cash,Sara,3
+2025-05-06,CUST1235,Toyota Corolla,Truck,Basic Wash,10,Mobile Pay,John,4
+2025-05-13,CUST1236,Hyundai Elantra,SUV,Basic Wash,10,Mobile Pay,Mike,4
+2025-05-16,CUST1237,Chevrolet Tahoe,Truck,Deluxe Wash,25,Cash,Mike,3
+2025-05-20,CUST1238,Honda Civic,SUV,Basic Wash,10,Cash,Sara,5
+2025-05-28,CUST1239,Tesla Model 3,SUV,Deluxe Wash,25,Card,Mike,4
+2025-05-06,CUST1240,Tesla Model 3,SUV,Deluxe Wash,25,Mobile Pay,Sara,3
+2025-05-02,CUST1241,Hyundai Elantra,Sedan,Deluxe Wash,25,Mobile Pay,Mike,4
+2025-05-26,CUST1242,Ford F-150,Truck,Deluxe Wash,25,Cash,Mike,3
+2025-05-22,CUST1243,Hyundai Elantra,Truck,Premium Wash,30,Cash,Mike,3
+2025-05-31,CUST1244,Kia Sportage,SUV,Premium Wash,30,Cash,John,5
+2025-05-15,CUST1245,Nissan Altima,Truck,Basic Wash,10,Card,John,3
+2025-05-21,CUST1246,Chevrolet Tahoe,Truck,Premium Wash,30,Cash,John,5
+2025-05-24,CUST1247,Jeep Wrangler,Sedan,Deluxe Wash,25,Card,Ali,5
+2025-05-30,CUST1248,Hyundai Elantra,SUV,Basic Wash,10,Cash,Mike,5
+2025-05-02,CUST1249,Hyundai Elantra,Truck,Deluxe Wash,25,Card,Sara,3
+2025-05-19,CUST1250,Ford F-150,Sedan,Basic Wash,10,Card,Mike,3
+2025-05-19,CUST1251,BMW X5,SUV,Basic Wash,10,Card,John,3
+2025-05-25,CUST1252,Kia Sportage,SUV,Deluxe Wash,25,Cash,John,5
+2025-05-28,CUST1253,Ford F-150,Truck,Deluxe Wash,25,Mobile Pay,Ali,4
+2025-05-17,CUST1254,Kia Sportage,Sedan,Basic Wash,10,Mobile Pay,John,4
+2025-05-02,CUST1255,Honda Civic,Truck,Premium Wash,30,Card,Mike,4
+2025-05-25,CUST1256,Jeep Wrangler,SUV,Basic Wash,10,Mobile Pay,Sara,3
+2025-05-10,CUST1257,Jeep Wrangler,Truck,Basic Wash,10,Mobile Pay,John,4
+2025-05-26,CUST1258,Ford F-150,Sedan,Premium Wash,30,Cash,Ali,4
+2025-05-13,CUST1259,Toyota Corolla,Sedan,Deluxe Wash,25,Card,John,5
+2025-05-16,CUST1260,Honda Civic,Truck,Basic Wash,10,Card,Sara,5
+2025-05-25,CUST1261,Nissan Altima,Truck,Premium Wash,30,Card,Ali,4
+2025-05-27,CUST1262,Honda Civic,SUV,Premium Wash,30,Cash,Ali,5
+2025-05-12,CUST1263,Kia Sportage,Truck,Premium Wash,30,Mobile Pay,Sara,3
+2025-05-11,CUST1264,Hyundai Elantra,SUV,Basic Wash,10,Mobile Pay,Sara,4
+2025-05-29,CUST1265,Hyundai Elantra,Truck,Basic Wash,10,Cash,Mike,3
+2025-05-17,CUST1266,BMW X5,Truck,Premium Wash,30,Mobile Pay,Mike,3
+2025-05-15,CUST1267,BMW X5,SUV,Premium Wash,30,Card,John,5
+2025-05-22,CUST1268,Hyundai Elantra,Sedan,Premium Wash,30,Mobile Pay,Mike,4
+2025-05-11,CUST1269,Kia Sportage,SUV,Basic Wash,10,Card,Sara,4
+2025-05-01,CUST1270,Tesla Model 3,SUV,Premium Wash,30,Cash,Sara,5
+2025-05-27,CUST1271,Chevrolet Tahoe,Sedan,Premium Wash,30,Cash,Ali,3
+2025-05-09,CUST1272,Tesla Model 3,Truck,Deluxe Wash,25,Cash,Mike,3
+2025-05-18,CUST1273,Honda Civic,SUV,Deluxe Wash,25,Mobile Pay,John,3
+2025-05-19,CUST1274,Jeep Wrangler,Sedan,Premium Wash,30,Mobile Pay,Sara,3
+2025-05-20,CUST1275,Jeep Wrangler,Sedan,Deluxe Wash,25,Cash,Sara,4
+2025-05-18,CUST1276,Chevrolet Tahoe,Truck,Deluxe Wash,25,Card,John,5
+2025-05-17,CUST1277,Chevrolet Tahoe,SUV,Premium Wash,30,Mobile Pay,John,5
+2025-05-31,CUST1278,Hyundai Elantra,SUV,Basic Wash,10,Cash,John,5
+2025-05-10,CUST1279,Tesla Model 3,Truck,Basic Wash,10,Mobile Pay,Mike,5
+2025-05-05,CUST1280,Nissan Altima,Truck,Premium Wash,30,Card,John,4
+2025-05-27,CUST1281,Kia Sportage,Truck,Deluxe Wash,25,Cash,Mike,3
+2025-05-12,CUST1282,Chevrolet Tahoe,SUV,Basic Wash,10,Mobile Pay,Sara,3
+2025-05-26,CUST1283,Jeep Wrangler,SUV,Basic Wash,10,Card,Ali,5
+2025-05-16,CUST1284,Nissan Altima,Truck,Premium Wash,30,Card,Mike,5
+2025-05-07,CUST1285,BMW X5,Truck,Deluxe Wash,25,Card,John,4
+2025-05-07,CUST1286,Tesla Model 3,Truck,Premium Wash,30,Card,John,4
+2025-05-19,CUST1287,Tesla Model 3,Truck,Basic Wash,10,Mobile Pay,Sara,5
+2025-05-14,CUST1288,Toyota Corolla,SUV,Premium Wash,30,Card,Sara,3
+2025-05-28,CUST1289,BMW X5,Truck,Deluxe Wash,25,Cash,Sara,3
+2025-05-06,CUST1290,BMW X5,SUV,Premium Wash,30,Cash,John,4
+2025-05-28,CUST1291,Hyundai Elantra,Truck,Deluxe Wash,25,Cash,Ali,4
+2025-05-20,CUST1292,BMW X5,SUV,Basic Wash,10,Cash,Ali,4
+2025-05-18,CUST1293,Jeep Wrangler,Sedan,Deluxe Wash,25,Cash,Ali,4
+2025-05-22,CUST1294,Nissan Altima,Truck,Premium Wash,30,Card,Sara,3
+2025-05-06,CUST1295,Jeep Wrangler,SUV,Premium Wash,30,Cash,Ali,3
+2025-05-30,CUST1296,Honda Civic,Sedan,Basic Wash,10,Cash,Mike,3
+2025-05-31,CUST1297,BMW X5,SUV,Basic Wash,10,Cash,John,3
+2025-05-17,CUST1298,BMW X5,Truck,Deluxe Wash,25,Cash,Sara,5
+2025-05-12,CUST1299,Honda Civic,SUV,Premium Wash,30,Card,John,3
+2025-05-08,CUST1300,Nissan Altima,Sedan,Deluxe Wash,25,Mobile Pay,Ali,3
+2025-05-22,CUST1301,Toyota Corolla,Truck,Deluxe Wash,25,Card,Sara,5
+2025-05-11,CUST1302,Chevrolet Tahoe,SUV,Basic Wash,10,Mobile Pay,Sara,3
+2025-05-31,CUST1303,Chevrolet Tahoe,SUV,Premium Wash,30,Mobile Pay,Ali,5
+2025-05-08,CUST1304,Hyundai Elantra,Sedan,Deluxe Wash,25,Mobile Pay,Mike,4
+2025-05-29,CUST1305,Nissan Altima,Sedan,Premium Wash,30,Cash,Mike,3
+2025-05-24,CUST1306,Kia Sportage,Truck,Deluxe Wash,25,Card,Mike,5
+2025-05-19,CUST1307,Kia Sportage,Truck,Basic Wash,10,Card,John,4
+2025-05-21,CUST1308,Nissan Altima,Sedan,Premium Wash,30,Card,Mike,5
+2025-05-28,CUST1309,Ford F-150,Truck,Deluxe Wash,25,Cash,Sara,4
+2025-05-07,CUST1310,Hyundai Elantra,SUV,Deluxe Wash,25,Cash,Ali,4
+2025-05-11,CUST1311,Tesla Model 3,Truck,Basic Wash,10,Mobile Pay,Ali,5
+2025-05-21,CUST1312,BMW X5,Sedan,Deluxe Wash,25,Cash,Ali,4
+2025-05-21,CUST1313,Jeep Wrangler,SUV,Premium Wash,30,Cash,John,4
+2025-05-25,CUST1314,Jeep Wrangler,SUV,Deluxe Wash,25,Card,John,3
+2025-05-17,CUST1315,BMW X5,Truck,Basic Wash,10,Cash,Mike,5
+2025-05-26,CUST1316,Toyota Corolla,Truck,Premium Wash,30,Mobile Pay,Mike,5
+2025-05-24,CUST1317,Hyundai Elantra,Sedan,Premium Wash,30,Cash,Mike,4
+2025-05-23,CUST1318,Toyota Corolla,Truck,Premium Wash,30,Cash,Mike,4
+2025-05-13,CUST1319,BMW X5,Truck,Basic Wash,10,Mobile Pay,Ali,5
+2025-05-08,CUST1320,Honda Civic,SUV,Basic Wash,10,Mobile Pay,Mike,4
+2025-05-01,CUST1321,Honda Civic,SUV,Deluxe Wash,25,Cash,Mike,4
+2025-05-09,CUST1322,BMW X5,Sedan,Deluxe Wash,25,Card,Mike,4
+2025-05-02,CUST1323,Jeep Wrangler,SUV,Premium Wash,30,Card,Sara,3
+2025-05-21,CUST1324,Honda Civic,Truck,Deluxe Wash,25,Mobile Pay,Sara,5
+2025-05-30,CUST1325,Chevrolet Tahoe,Sedan,Basic Wash,10,Mobile Pay,John,4
+2025-05-01,CUST1326,Kia Sportage,SUV,Basic Wash,10,Mobile Pay,Mike,3
+2025-05-17,CUST1327,Hyundai Elantra,SUV,Premium Wash,30,Cash,John,3
+2025-05-15,CUST1328,Toyota Corolla,Truck,Deluxe Wash,25,Cash,Ali,3
+2025-05-17,CUST1329,Jeep Wrangler,Sedan,Deluxe Wash,25,Mobile Pay,Ali,3
+2025-05-03,CUST1330,Chevrolet Tahoe,SUV,Basic Wash,10,Card,Mike,5
+2025-05-27,CUST1331,Hyundai Elantra,Sedan,Premium Wash,30,Mobile Pay,Mike,3
+2025-05-13,CUST1332,Toyota Corolla,SUV,Premium Wash,30,Mobile Pay,Sara,3
+2025-05-12,CUST1333,Toyota Corolla,SUV,Premium Wash,30,Card,Mike,5
+2025-05-10,CUST1334,Jeep Wrangler,Truck,Basic Wash,10,Mobile Pay,Sara,3
+2025-05-20,CUST1335,Jeep Wrangler,SUV,Premium Wash,30,Mobile Pay,Ali,5
+2025-05-20,CUST1336,Tesla Model 3,Sedan,Premium Wash,30,Cash,Sara,3
+2025-05-06,CUST1337,Chevrolet Tahoe,Sedan,Deluxe Wash,25,Mobile Pay,Sara,5
+2025-05-08,CUST1338,Chevrolet Tahoe,SUV,Deluxe Wash,25,Card,Sara,3
+2025-05-20,CUST1339,Nissan Altima,SUV,Basic Wash,10,Cash,Sara,5
+2025-05-16,CUST1340,Kia Sportage,SUV,Basic Wash,10,Cash,Mike,4
+2025-05-31,CUST1341,Jeep Wrangler,Truck,Deluxe Wash,25,Card,Mike,3
+2025-05-17,CUST1342,Chevrolet Tahoe,SUV,Premium Wash,30,Card,Ali,5
+2025-05-08,CUST1343,Chevrolet Tahoe,SUV,Deluxe Wash,25,Cash,Mike,5
+2025-05-09,CUST1344,Toyota Corolla,SUV,Deluxe Wash,25,Card,Sara,5
+2025-05-22,CUST1345,Ford F-150,Truck,Premium Wash,30,Mobile Pay,Ali,3
+2025-05-15,CUST1346,Hyundai Elantra,SUV,Basic Wash,10,Mobile Pay,Sara,5
+2025-05-04,CUST1347,Ford F-150,SUV,Deluxe Wash,25,Cash,Mike,4
+2025-05-15,CUST1348,Ford F-150,Sedan,Premium Wash,30,Cash,John,5
+2025-05-11,CUST1349,Hyundai Elantra,Truck,Premium Wash,30,Cash,Ali,3
+2025-05-04,CUST1350,Hyundai Elantra,Truck,Deluxe Wash,25,Mobile Pay,Ali,4
+2025-05-17,CUST1351,Chevrolet Tahoe,Truck,Basic Wash,10,Mobile Pay,Mike,5
+2025-05-25,CUST1352,Hyundai Elantra,Truck,Premium Wash,30,Mobile Pay,John,3
+2025-05-16,CUST1353,BMW X5,Sedan,Deluxe Wash,25,Card,Mike,3
+2025-05-25,CUST1354,BMW X5,SUV,Deluxe Wash,25,Cash,John,5
+2025-05-15,CUST1355,BMW X5,Sedan,Basic Wash,10,Mobile Pay,Sara,4
+2025-05-25,CUST1356,Nissan Altima,Sedan,Premium Wash,30,Card,Mike,3
+2025-05-01,CUST1357,Chevrolet Tahoe,Sedan,Premium Wash,30,Mobile Pay,Sara,3
+2025-05-03,CUST1358,Jeep Wrangler,Sedan,Premium Wash,30,Card,Mike,3
+2025-05-12,CUST1359,Jeep Wrangler,SUV,Premium Wash,30,Card,Sara,3
+2025-05-04,CUST1360,Toyota Corolla,Sedan,Premium Wash,30,Cash,Ali,5
+2025-05-26,CUST1361,Kia Sportage,Truck,Deluxe Wash,25,Mobile Pay,Mike,3
+2025-05-09,CUST1362,Tesla Model 3,SUV,Basic Wash,10,Card,Sara,4
+2025-05-10,CUST1363,BMW X5,Truck,Premium Wash,30,Mobile Pay,Sara,4
+2025-05-06,CUST1364,Ford F-150,Sedan,Premium Wash,30,Card,Sara,4
+2025-05-23,CUST1365,Kia Sportage,SUV,Deluxe Wash,25,Card,Ali,3
+2025-05-12,CUST1366,Ford F-150,SUV,Premium Wash,30,Mobile Pay,Sara,3
+2025-05-02,CUST1367,Toyota Corolla,Truck,Deluxe Wash,25,Card,Sara,4
+2025-05-31,CUST1368,Kia Sportage,SUV,Basic Wash,10,Card,John,4
+2025-05-15,CUST1369,Kia Sportage,Sedan,Premium Wash,30,Cash,Mike,4
+2025-05-21,CUST1370,Jeep Wrangler,Truck,Deluxe Wash,25,Mobile Pay,John,4
+2025-05-01,CUST1371,Ford F-150,Sedan,Deluxe Wash,25,Cash,Sara,5
+2025-05-03,CUST1372,Tesla Model 3,Truck,Deluxe Wash,25,Mobile Pay,Ali,4
+2025-05-05,CUST1373,Hyundai Elantra,Sedan,Basic Wash,10,Card,Sara,3
+2025-05-03,CUST1374,Kia Sportage,Truck,Premium Wash,30,Cash,Mike,4
+2025-05-05,CUST1375,Nissan Altima,SUV,Deluxe Wash,25,Mobile Pay,John,3
+2025-05-17,CUST1376,Tesla Model 3,Truck,Deluxe Wash,25,Mobile Pay,Mike,3
+2025-05-26,CUST1377,Honda Civic,SUV,Basic Wash,10,Mobile Pay,Mike,3
+2025-05-18,CUST1378,Hyundai Elantra,Truck,Deluxe Wash,25,Card,Sara,4
+2025-05-02,CUST1379,Nissan Altima,Truck,Basic Wash,10,Cash,Sara,5
+2025-05-25,CUST1380,Chevrolet Tahoe,Truck,Premium Wash,30,Cash,John,3
+2025-05-23,CUST1381,BMW X5,Truck,Premium Wash,30,Card,Mike,5
+2025-05-03,CUST1382,Chevrolet Tahoe,Sedan,Deluxe Wash,25,Mobile Pay,Ali,4
+2025-05-20,CUST1383,Tesla Model 3,Sedan,Basic Wash,10,Card,Ali,4
+2025-05-10,CUST1384,Tesla Model 3,Sedan,Basic Wash,10,Cash,Ali,5
+2025-05-21,CUST1385,Honda Civic,Sedan,Deluxe Wash,25,Card,Sara,5
+2025-05-15,CUST1386,Tesla Model 3,SUV,Deluxe Wash,25,Card,Sara,5
+2025-05-11,CUST1387,Chevrolet Tahoe,Sedan,Basic Wash,10,Cash,John,5
+2025-05-04,CUST1388,Toyota Corolla,Sedan,Basic Wash,10,Card,Ali,5
+2025-05-07,CUST1389,Toyota Corolla,Truck,Basic Wash,10,Cash,Ali,4
+2025-05-12,CUST1390,Hyundai Elantra,Truck,Basic Wash,10,Card,Mike,3
+2025-05-02,CUST1391,Hyundai Elantra,Sedan,Premium Wash,30,Cash,John,3
+2025-05-13,CUST1392,Hyundai Elantra,SUV,Deluxe Wash,25,Mobile Pay,Mike,3
+2025-05-04,CUST1393,Chevrolet Tahoe,Truck,Deluxe Wash,25,Card,John,5
+2025-05-30,CUST1394,BMW X5,Sedan,Deluxe Wash,25,Card,John,4
+2025-05-23,CUST1395,Tesla Model 3,Sedan,Deluxe Wash,25,Mobile Pay,John,3
+2025-05-10,CUST1396,Tesla Model 3,SUV,Deluxe Wash,25,Card,Sara,5
+2025-05-31,CUST1397,Chevrolet Tahoe,SUV,Basic Wash,10,Cash,Ali,5
+2025-05-01,CUST1398,Honda Civic,SUV,Basic Wash,10,Mobile Pay,Ali,3
+2025-05-09,CUST1399,Nissan Altima,Sedan,Premium Wash,30,Mobile Pay,John,3

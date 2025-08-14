@@ -1,0 +1,401 @@
+Date,Customer_ID,Car_Model,Car_Type,Wash_Time_Minutes,Price,Payment_Method,Washer_Name,Rating
+2025-05-17,CUST2000,Ford F-150,Truck,27,13.05,Cash,Sara,3
+2025-05-29,CUST2001,Ford F-150,SUV,60,29.01,Card,John,4
+2025-05-29,CUST2002,Kia Sportage,Truck,39,19.86,Mobile Pay,Sara,3
+2025-05-26,CUST2003,Kia Sportage,SUV,57,28.24,Mobile Pay,Sara,5
+2025-05-11,CUST2004,Kia Sportage,SUV,60,30.67,Mobile Pay,Sara,3
+2025-05-07,CUST2005,Nissan Altima,Truck,56,28.22,Cash,Ali,4
+2025-05-16,CUST2006,Honda Civic,Sedan,42,22.87,Card,Ali,5
+2025-05-15,CUST2007,Toyota Corolla,Truck,51,24.96,Cash,Ali,4
+2025-05-18,CUST2008,Jeep Wrangler,Sedan,49,24.86,Card,Sara,5
+2025-05-27,CUST2009,Hyundai Elantra,Sedan,60,29.37,Cash,Sara,3
+2025-05-18,CUST2010,Jeep Wrangler,SUV,37,20.27,Cash,Sara,5
+2025-05-11,CUST2011,Tesla Model 3,SUV,13,6.21,Card,John,4
+2025-05-25,CUST2012,Kia Sportage,Truck,40,21.18,Cash,John,4
+2025-05-02,CUST2013,Toyota Corolla,Truck,10,5.59,Card,Sara,3
+2025-05-05,CUST2014,Ford F-150,SUV,30,14.84,Card,Mike,5
+2025-05-01,CUST2015,Jeep Wrangler,Sedan,50,24.1,Mobile Pay,Sara,5
+2025-05-10,CUST2016,Honda Civic,Sedan,16,7.25,Card,Ali,3
+2025-05-31,CUST2017,Hyundai Elantra,Truck,35,19.26,Cash,Ali,5
+2025-05-01,CUST2018,BMW X5,SUV,44,21.63,Cash,Ali,3
+2025-05-08,CUST2019,Tesla Model 3,SUV,32,17.52,Mobile Pay,John,4
+2025-05-08,CUST2020,Tesla Model 3,Sedan,60,31.25,Card,Ali,3
+2025-05-01,CUST2021,Nissan Altima,Truck,34,18.15,Card,John,4
+2025-05-07,CUST2022,Nissan Altima,Sedan,51,26.69,Card,John,3
+2025-05-23,CUST2023,Nissan Altima,Truck,59,29.73,Cash,John,4
+2025-05-15,CUST2024,Honda Civic,Truck,23,13.31,Mobile Pay,Sara,3
+2025-05-09,CUST2025,Jeep Wrangler,Sedan,38,18.78,Card,Mike,5
+2025-05-11,CUST2026,Kia Sportage,Sedan,53,26.44,Card,Sara,5
+2025-05-17,CUST2027,Kia Sportage,SUV,53,25.7,Card,Mike,3
+2025-05-28,CUST2028,BMW X5,Sedan,32,16.78,Cash,Ali,5
+2025-05-23,CUST2029,Nissan Altima,SUV,15,7.41,Mobile Pay,Sara,5
+2025-05-29,CUST2030,Chevrolet Tahoe,SUV,45,23.87,Mobile Pay,Sara,4
+2025-05-06,CUST2031,Tesla Model 3,Truck,31,16.49,Mobile Pay,Mike,3
+2025-05-01,CUST2032,Tesla Model 3,Sedan,56,27.01,Card,Mike,4
+2025-05-14,CUST2033,Honda Civic,Sedan,17,8.33,Card,Mike,5
+2025-05-04,CUST2034,Nissan Altima,SUV,42,22.84,Card,John,4
+2025-05-19,CUST2035,Hyundai Elantra,Truck,40,21.53,Mobile Pay,Mike,3
+2025-05-04,CUST2036,Toyota Corolla,SUV,46,22.35,Card,John,4
+2025-05-16,CUST2037,Ford F-150,SUV,48,25.38,Mobile Pay,John,5
+2025-05-19,CUST2038,Toyota Corolla,Sedan,51,25.32,Card,Ali,5
+2025-05-08,CUST2039,Kia Sportage,Truck,58,28.86,Cash,Mike,4
+2025-05-12,CUST2040,Honda Civic,Truck,20,11.88,Cash,Mike,5
+2025-05-17,CUST2041,Honda Civic,SUV,55,29.34,Cash,Sara,3
+2025-05-27,CUST2042,Kia Sportage,SUV,32,15.57,Card,Ali,4
+2025-05-06,CUST2043,Toyota Corolla,Truck,40,19.86,Card,Ali,3
+2025-05-14,CUST2044,Jeep Wrangler,Truck,58,28.97,Cash,Sara,5
+2025-05-07,CUST2045,BMW X5,Truck,52,25.55,Cash,Ali,5
+2025-05-02,CUST2046,BMW X5,Sedan,11,4.63,Card,Ali,3
+2025-05-11,CUST2047,Honda Civic,Truck,41,21.02,Mobile Pay,John,5
+2025-05-08,CUST2048,Nissan Altima,SUV,15,7.44,Mobile Pay,Sara,3
+2025-05-05,CUST2049,Tesla Model 3,Truck,48,23.18,Card,Sara,5
+2025-05-30,CUST2050,Ford F-150,SUV,12,7.49,Mobile Pay,Mike,3
+2025-05-25,CUST2051,Toyota Corolla,Sedan,38,20.81,Card,Mike,3
+2025-05-11,CUST2052,Chevrolet Tahoe,Truck,57,28.11,Mobile Pay,John,3
+2025-05-12,CUST2053,Kia Sportage,Truck,19,8.82,Mobile Pay,Ali,5
+2025-05-31,CUST2054,Chevrolet Tahoe,SUV,22,11.48,Card,John,4
+2025-05-26,CUST2055,Nissan Altima,Sedan,32,15.18,Card,John,5
+2025-05-24,CUST2056,Hyundai Elantra,Sedan,28,13.16,Card,Mike,4
+2025-05-26,CUST2057,Jeep Wrangler,SUV,14,7.05,Mobile Pay,John,3
+2025-05-20,CUST2058,Tesla Model 3,Sedan,14,8.48,Mobile Pay,Ali,4
+2025-05-14,CUST2059,Honda Civic,Sedan,14,8.27,Card,Ali,5
+2025-05-28,CUST2060,Toyota Corolla,SUV,56,27.71,Card,John,3
+2025-05-08,CUST2061,Ford F-150,Truck,52,27.6,Cash,Mike,5
+2025-05-10,CUST2062,Hyundai Elantra,Sedan,23,12.36,Card,Mike,5
+2025-05-29,CUST2063,Honda Civic,SUV,28,13.21,Mobile Pay,Sara,4
+2025-05-13,CUST2064,Kia Sportage,Sedan,40,21.48,Mobile Pay,Sara,4
+2025-05-12,CUST2065,BMW X5,SUV,45,21.75,Mobile Pay,Mike,5
+2025-05-03,CUST2066,Chevrolet Tahoe,Truck,54,28.72,Cash,Sara,5
+2025-05-19,CUST2067,Ford F-150,SUV,49,24.88,Cash,Mike,4
+2025-05-03,CUST2068,Chevrolet Tahoe,SUV,41,22.33,Mobile Pay,Ali,4
+2025-05-10,CUST2069,BMW X5,Truck,55,26.75,Cash,John,3
+2025-05-17,CUST2070,Jeep Wrangler,Truck,47,24.52,Cash,Sara,3
+2025-05-09,CUST2071,Jeep Wrangler,Truck,22,11.23,Cash,Sara,5
+2025-05-14,CUST2072,Honda Civic,Sedan,42,20.96,Card,Sara,4
+2025-05-19,CUST2073,BMW X5,SUV,48,25.38,Mobile Pay,Ali,4
+2025-05-09,CUST2074,Honda Civic,Truck,26,13.41,Mobile Pay,Ali,4
+2025-05-25,CUST2075,Hyundai Elantra,SUV,24,11.28,Mobile Pay,Sara,4
+2025-05-26,CUST2076,BMW X5,SUV,30,15.41,Cash,Sara,3
+2025-05-18,CUST2077,Chevrolet Tahoe,SUV,45,23.26,Card,Ali,5
+2025-05-22,CUST2078,Hyundai Elantra,Sedan,59,28.59,Cash,Sara,3
+2025-05-21,CUST2079,Ford F-150,Sedan,12,7.31,Mobile Pay,John,5
+2025-05-31,CUST2080,BMW X5,Sedan,10,6.74,Mobile Pay,Sara,4
+2025-05-04,CUST2081,Toyota Corolla,Sedan,27,14.54,Cash,Mike,5
+2025-05-24,CUST2082,Toyota Corolla,SUV,31,17.21,Mobile Pay,Ali,3
+2025-05-26,CUST2083,Toyota Corolla,SUV,21,11.74,Card,Mike,3
+2025-05-01,CUST2084,Toyota Corolla,Sedan,32,15.68,Card,Mike,3
+2025-05-15,CUST2085,Ford F-150,SUV,57,29.84,Mobile Pay,Sara,4
+2025-05-21,CUST2086,Nissan Altima,Truck,47,24.69,Mobile Pay,John,3
+2025-05-27,CUST2087,Hyundai Elantra,Sedan,41,22.04,Mobile Pay,Ali,5
+2025-05-07,CUST2088,Hyundai Elantra,Sedan,30,14.59,Mobile Pay,Ali,3
+2025-05-03,CUST2089,Jeep Wrangler,SUV,35,18.68,Cash,Ali,3
+2025-05-19,CUST2090,BMW X5,SUV,29,16.36,Cash,Mike,3
+2025-05-22,CUST2091,Toyota Corolla,Sedan,41,22.27,Card,Mike,5
+2025-05-20,CUST2092,BMW X5,Truck,55,27.6,Card,John,5
+2025-05-15,CUST2093,Toyota Corolla,Sedan,13,7.41,Cash,Sara,5
+2025-05-27,CUST2094,Toyota Corolla,Sedan,11,5.31,Card,Sara,5
+2025-05-17,CUST2095,BMW X5,SUV,60,30.67,Cash,Sara,5
+2025-05-30,CUST2096,Honda Civic,Sedan,23,10.82,Cash,Mike,3
+2025-05-08,CUST2097,Hyundai Elantra,Truck,52,26.87,Mobile Pay,Mike,4
+2025-05-22,CUST2098,Ford F-150,Sedan,58,28.41,Card,Mike,3
+2025-05-03,CUST2099,Nissan Altima,Sedan,54,27.67,Cash,John,4
+2025-05-15,CUST2100,Chevrolet Tahoe,Sedan,44,23.27,Mobile Pay,John,4
+2025-05-12,CUST2101,Chevrolet Tahoe,SUV,60,31.32,Mobile Pay,Ali,3
+2025-05-05,CUST2102,BMW X5,SUV,51,26.12,Mobile Pay,John,4
+2025-05-15,CUST2103,Hyundai Elantra,Sedan,44,21.12,Cash,John,5
+2025-05-03,CUST2104,Tesla Model 3,Sedan,60,31.5,Card,Ali,4
+2025-05-25,CUST2105,Hyundai Elantra,SUV,12,7.05,Card,Mike,4
+2025-05-14,CUST2106,BMW X5,Truck,14,8.98,Mobile Pay,Mike,5
+2025-05-06,CUST2107,Ford F-150,Truck,42,22.1,Cash,Mike,4
+2025-05-01,CUST2108,Tesla Model 3,Truck,19,8.75,Cash,John,4
+2025-05-11,CUST2109,Ford F-150,Sedan,19,8.51,Card,Mike,3
+2025-05-16,CUST2110,Nissan Altima,Truck,59,30.36,Card,Mike,3
+2025-05-05,CUST2111,Chevrolet Tahoe,Sedan,58,30.33,Card,John,4
+2025-05-27,CUST2112,Jeep Wrangler,Sedan,59,29.99,Cash,Sara,5
+2025-05-05,CUST2113,BMW X5,Sedan,54,28.12,Card,Ali,4
+2025-05-08,CUST2114,Nissan Altima,Truck,57,27.53,Cash,Mike,3
+2025-05-06,CUST2115,Chevrolet Tahoe,Truck,45,22.21,Cash,Sara,4
+2025-05-10,CUST2116,Chevrolet Tahoe,SUV,38,20.52,Mobile Pay,Mike,3
+2025-05-15,CUST2117,BMW X5,SUV,45,22.41,Card,John,3
+2025-05-21,CUST2118,Chevrolet Tahoe,Truck,22,12.43,Card,Ali,4
+2025-05-16,CUST2119,Tesla Model 3,SUV,21,12.39,Cash,Sara,4
+2025-05-07,CUST2120,Toyota Corolla,Sedan,21,10.51,Card,John,3
+2025-05-26,CUST2121,BMW X5,Sedan,27,12.67,Mobile Pay,Mike,4
+2025-05-22,CUST2122,Nissan Altima,Sedan,26,12.74,Cash,Sara,3
+2025-05-25,CUST2123,Hyundai Elantra,Truck,24,11.63,Card,Mike,3
+2025-05-30,CUST2124,Nissan Altima,Truck,15,8.44,Mobile Pay,Sara,5
+2025-05-19,CUST2125,Toyota Corolla,Truck,48,23.16,Card,John,3
+2025-05-17,CUST2126,Ford F-150,SUV,29,15.59,Mobile Pay,John,5
+2025-05-03,CUST2127,Chevrolet Tahoe,Sedan,52,27.41,Cash,Ali,4
+2025-05-02,CUST2128,Kia Sportage,SUV,47,24.87,Card,Sara,4
+2025-05-04,CUST2129,Ford F-150,Sedan,47,22.92,Cash,Sara,5
+2025-05-22,CUST2130,Ford F-150,SUV,35,18.82,Mobile Pay,Mike,3
+2025-05-12,CUST2131,Toyota Corolla,Sedan,17,7.91,Cash,Sara,3
+2025-05-07,CUST2132,Chevrolet Tahoe,SUV,24,13.46,Mobile Pay,Sara,4
+2025-05-11,CUST2133,Toyota Corolla,Sedan,34,16.95,Card,John,5
+2025-05-16,CUST2134,BMW X5,SUV,20,9.27,Cash,Sara,4
+2025-05-10,CUST2135,Kia Sportage,SUV,42,20.47,Card,Sara,4
+2025-05-09,CUST2136,Honda Civic,Sedan,32,17.63,Mobile Pay,John,3
+2025-05-16,CUST2137,BMW X5,SUV,60,29.58,Mobile Pay,Ali,5
+2025-05-30,CUST2138,Toyota Corolla,Truck,46,24.54,Cash,Sara,5
+2025-05-24,CUST2139,Chevrolet Tahoe,Sedan,59,29.29,Mobile Pay,John,4
+2025-05-14,CUST2140,Hyundai Elantra,SUV,36,17.41,Card,Ali,5
+2025-05-17,CUST2141,Kia Sportage,Sedan,49,25.88,Cash,Mike,5
+2025-05-20,CUST2142,Jeep Wrangler,Truck,42,22.43,Mobile Pay,Sara,4
+2025-05-15,CUST2143,BMW X5,Truck,25,12.26,Card,Mike,5
+2025-05-20,CUST2144,Chevrolet Tahoe,Truck,27,14.44,Cash,John,5
+2025-05-10,CUST2145,Honda Civic,Truck,24,13.11,Mobile Pay,Sara,4
+2025-05-12,CUST2146,Toyota Corolla,Sedan,54,28.45,Mobile Pay,Sara,3
+2025-05-03,CUST2147,Nissan Altima,SUV,25,12.36,Cash,John,4
+2025-05-04,CUST2148,Hyundai Elantra,SUV,28,15.75,Mobile Pay,Sara,5
+2025-05-25,CUST2149,Ford F-150,Sedan,54,26.74,Cash,Ali,5
+2025-05-23,CUST2150,Tesla Model 3,SUV,51,25.87,Cash,Sara,4
+2025-05-11,CUST2151,Jeep Wrangler,SUV,22,11.0,Cash,Ali,5
+2025-05-06,CUST2152,Toyota Corolla,Truck,29,14.76,Cash,Ali,5
+2025-05-22,CUST2153,Kia Sportage,Sedan,13,7.3,Cash,Sara,5
+2025-05-13,CUST2154,Toyota Corolla,Sedan,21,10.54,Cash,Sara,3
+2025-05-09,CUST2155,Jeep Wrangler,Truck,24,11.5,Card,Sara,4
+2025-05-24,CUST2156,Kia Sportage,SUV,48,23.09,Cash,Mike,4
+2025-05-01,CUST2157,Honda Civic,Sedan,31,16.83,Cash,John,3
+2025-05-29,CUST2158,Hyundai Elantra,Sedan,55,29.17,Card,John,5
+2025-05-27,CUST2159,Chevrolet Tahoe,Truck,40,20.98,Cash,Mike,4
+2025-05-03,CUST2160,Kia Sportage,SUV,35,17.63,Card,Mike,3
+2025-05-09,CUST2161,Toyota Corolla,Truck,50,26.43,Mobile Pay,John,3
+2025-05-05,CUST2162,Nissan Altima,SUV,20,11.52,Cash,Ali,5
+2025-05-17,CUST2163,Honda Civic,SUV,34,16.06,Mobile Pay,Mike,5
+2025-05-31,CUST2164,Tesla Model 3,Sedan,33,16.67,Cash,Mike,3
+2025-05-21,CUST2165,Hyundai Elantra,Truck,26,14.28,Card,Mike,4
+2025-05-30,CUST2166,Ford F-150,Truck,41,20.61,Mobile Pay,Mike,5
+2025-05-26,CUST2167,Chevrolet Tahoe,SUV,49,23.65,Cash,John,4
+2025-05-31,CUST2168,Hyundai Elantra,Truck,14,8.62,Card,Mike,4
+2025-05-01,CUST2169,Ford F-150,SUV,53,27.29,Card,Sara,5
+2025-05-04,CUST2170,Honda Civic,Sedan,26,12.41,Cash,Sara,3
+2025-05-07,CUST2171,BMW X5,Truck,50,26.93,Card,Ali,4
+2025-05-22,CUST2172,Tesla Model 3,Truck,14,6.53,Card,John,5
+2025-05-14,CUST2173,Honda Civic,Truck,25,12.56,Card,Ali,3
+2025-05-22,CUST2174,Tesla Model 3,Truck,46,22.99,Cash,Sara,3
+2025-05-07,CUST2175,BMW X5,SUV,50,24.38,Card,Sara,4
+2025-05-26,CUST2176,Chevrolet Tahoe,Truck,13,7.56,Cash,Sara,5
+2025-05-10,CUST2177,Nissan Altima,Sedan,18,10.07,Mobile Pay,Mike,3
+2025-05-27,CUST2178,Hyundai Elantra,Truck,58,29.82,Cash,Sara,4
+2025-05-30,CUST2179,Hyundai Elantra,Sedan,17,10.01,Mobile Pay,Mike,4
+2025-05-21,CUST2180,Hyundai Elantra,Truck,11,7.34,Mobile Pay,Mike,5
+2025-05-18,CUST2181,Kia Sportage,Sedan,29,16.06,Card,Ali,5
+2025-05-20,CUST2182,BMW X5,Sedan,18,10.78,Card,Sara,5
+2025-05-03,CUST2183,Ford F-150,Truck,16,7.82,Cash,Mike,4
+2025-05-24,CUST2184,Ford F-150,SUV,29,14.48,Card,Sara,3
+2025-05-02,CUST2185,Kia Sportage,Truck,15,7.3,Card,Sara,3
+2025-05-09,CUST2186,Jeep Wrangler,Sedan,55,26.56,Cash,Ali,4
+2025-05-20,CUST2187,Tesla Model 3,Truck,54,27.4,Cash,Sara,5
+2025-05-11,CUST2188,Chevrolet Tahoe,Truck,16,7.61,Card,Sara,5
+2025-05-01,CUST2189,Ford F-150,Truck,52,27.18,Mobile Pay,Sara,4
+2025-05-08,CUST2190,Jeep Wrangler,SUV,13,8.0,Cash,John,3
+2025-05-16,CUST2191,Jeep Wrangler,SUV,37,17.97,Card,John,5
+2025-05-26,CUST2192,Tesla Model 3,SUV,60,29.76,Cash,John,4
+2025-05-20,CUST2193,Hyundai Elantra,SUV,31,16.87,Card,Ali,5
+2025-05-11,CUST2194,BMW X5,SUV,11,4.8,Card,Sara,3
+2025-05-24,CUST2195,Kia Sportage,Truck,48,23.59,Card,Sara,4
+2025-05-24,CUST2196,BMW X5,Sedan,26,12.46,Mobile Pay,Ali,3
+2025-05-16,CUST2197,Honda Civic,Truck,42,21.11,Mobile Pay,Sara,5
+2025-05-27,CUST2198,Hyundai Elantra,Sedan,46,22.46,Card,Sara,4
+2025-05-27,CUST2199,Toyota Corolla,Truck,23,12.54,Cash,Ali,5
+2025-05-02,CUST2200,BMW X5,Sedan,42,21.28,Card,John,3
+2025-05-31,CUST2201,Toyota Corolla,SUV,50,25.71,Mobile Pay,Sara,4
+2025-05-11,CUST2202,Honda Civic,SUV,50,25.78,Mobile Pay,Mike,4
+2025-05-24,CUST2203,Chevrolet Tahoe,SUV,26,14.55,Cash,Ali,3
+2025-05-24,CUST2204,Honda Civic,SUV,41,20.81,Card,John,4
+2025-05-21,CUST2205,Chevrolet Tahoe,SUV,28,14.4,Card,Sara,4
+2025-05-13,CUST2206,Honda Civic,Truck,49,25.98,Mobile Pay,Sara,3
+2025-05-07,CUST2207,Tesla Model 3,Truck,38,19.25,Mobile Pay,Ali,5
+2025-05-01,CUST2208,Jeep Wrangler,Sedan,31,14.88,Mobile Pay,Ali,3
+2025-05-26,CUST2209,Honda Civic,SUV,48,23.65,Cash,Mike,4
+2025-05-08,CUST2210,Tesla Model 3,Sedan,60,31.21,Card,Ali,3
+2025-05-28,CUST2211,Toyota Corolla,Sedan,10,6.6,Cash,Sara,5
+2025-05-02,CUST2212,Jeep Wrangler,Sedan,21,12.07,Cash,Sara,4
+2025-05-12,CUST2213,Jeep Wrangler,Sedan,58,28.8,Card,Ali,5
+2025-05-08,CUST2214,Nissan Altima,Sedan,14,8.9,Card,John,5
+2025-05-19,CUST2215,Hyundai Elantra,Sedan,27,14.19,Card,John,3
+2025-05-10,CUST2216,Chevrolet Tahoe,Truck,47,23.01,Cash,Ali,4
+2025-05-01,CUST2217,Nissan Altima,SUV,15,8.32,Cash,Ali,5
+2025-05-13,CUST2218,Nissan Altima,Truck,40,19.25,Mobile Pay,Ali,4
+2025-05-18,CUST2219,Chevrolet Tahoe,Truck,21,10.38,Card,Mike,5
+2025-05-07,CUST2220,BMW X5,Truck,11,6.93,Card,Mike,4
+2025-05-12,CUST2221,Chevrolet Tahoe,Truck,54,27.32,Mobile Pay,John,3
+2025-05-24,CUST2222,Ford F-150,SUV,38,19.01,Mobile Pay,Sara,4
+2025-05-08,CUST2223,Tesla Model 3,Truck,18,9.97,Card,Mike,3
+2025-05-21,CUST2224,Toyota Corolla,Truck,47,23.14,Card,John,3
+2025-05-26,CUST2225,Toyota Corolla,Truck,17,10.2,Cash,Mike,3
+2025-05-20,CUST2226,BMW X5,SUV,29,13.54,Card,Sara,5
+2025-05-02,CUST2227,Kia Sportage,Truck,30,15.51,Mobile Pay,John,4
+2025-05-09,CUST2228,Jeep Wrangler,Truck,36,17.37,Card,Sara,3
+2025-05-11,CUST2229,Hyundai Elantra,SUV,29,15.96,Card,Mike,3
+2025-05-25,CUST2230,BMW X5,SUV,33,18.35,Mobile Pay,Ali,3
+2025-05-07,CUST2231,Ford F-150,Sedan,25,13.84,Card,Mike,3
+2025-05-17,CUST2232,BMW X5,SUV,41,20.86,Card,John,4
+2025-05-31,CUST2233,Chevrolet Tahoe,Truck,31,16.45,Card,Ali,5
+2025-05-15,CUST2234,Chevrolet Tahoe,SUV,22,10.78,Mobile Pay,Mike,5
+2025-05-15,CUST2235,BMW X5,SUV,49,24.94,Card,Mike,3
+2025-05-22,CUST2236,Toyota Corolla,SUV,45,24.29,Mobile Pay,Ali,4
+2025-05-01,CUST2237,Chevrolet Tahoe,Truck,39,19.84,Mobile Pay,Mike,4
+2025-05-06,CUST2238,Jeep Wrangler,Sedan,14,6.44,Cash,John,5
+2025-05-05,CUST2239,Jeep Wrangler,SUV,43,23.11,Mobile Pay,Mike,5
+2025-05-29,CUST2240,Jeep Wrangler,Truck,14,6.37,Mobile Pay,Mike,3
+2025-05-20,CUST2241,Nissan Altima,SUV,37,19.53,Card,Ali,5
+2025-05-14,CUST2242,Hyundai Elantra,Sedan,44,22.64,Cash,Sara,5
+2025-05-29,CUST2243,Kia Sportage,Truck,29,14.57,Card,John,5
+2025-05-12,CUST2244,BMW X5,SUV,59,28.55,Card,Mike,5
+2025-05-04,CUST2245,Tesla Model 3,Sedan,37,19.97,Card,Sara,5
+2025-05-22,CUST2246,Tesla Model 3,Truck,18,8.06,Cash,John,3
+2025-05-09,CUST2247,Ford F-150,Truck,48,25.08,Cash,Sara,4
+2025-05-03,CUST2248,Toyota Corolla,Sedan,35,19.23,Card,John,4
+2025-05-13,CUST2249,Jeep Wrangler,SUV,12,6.78,Cash,Ali,4
+2025-05-13,CUST2250,Hyundai Elantra,Truck,60,30.8,Card,Ali,5
+2025-05-22,CUST2251,Nissan Altima,Sedan,36,17.77,Mobile Pay,Ali,4
+2025-05-21,CUST2252,Tesla Model 3,SUV,22,12.52,Mobile Pay,John,3
+2025-05-22,CUST2253,Nissan Altima,Sedan,30,16.32,Cash,John,4
+2025-05-18,CUST2254,Kia Sportage,Truck,55,26.89,Card,Mike,4
+2025-05-18,CUST2255,Ford F-150,Truck,13,8.36,Mobile Pay,Sara,3
+2025-05-14,CUST2256,Kia Sportage,Sedan,26,12.55,Mobile Pay,John,4
+2025-05-21,CUST2257,BMW X5,SUV,31,17.13,Mobile Pay,Sara,4
+2025-05-06,CUST2258,Chevrolet Tahoe,SUV,29,14.16,Card,John,4
+2025-05-19,CUST2259,BMW X5,Truck,45,22.78,Mobile Pay,Mike,3
+2025-05-31,CUST2260,Honda Civic,Sedan,41,20.03,Cash,Ali,3
+2025-05-26,CUST2261,Toyota Corolla,Sedan,45,24.36,Cash,Ali,3
+2025-05-22,CUST2262,Kia Sportage,Truck,40,20.68,Mobile Pay,John,3
+2025-05-01,CUST2263,Nissan Altima,Truck,47,25.03,Cash,Sara,4
+2025-05-27,CUST2264,Jeep Wrangler,SUV,15,7.71,Mobile Pay,Mike,4
+2025-05-17,CUST2265,Ford F-150,SUV,11,6.0,Mobile Pay,Mike,3
+2025-05-12,CUST2266,Chevrolet Tahoe,SUV,22,12.28,Cash,Ali,4
+2025-05-16,CUST2267,Hyundai Elantra,Sedan,33,16.08,Mobile Pay,John,4
+2025-05-02,CUST2268,Honda Civic,SUV,42,21.01,Cash,John,5
+2025-05-12,CUST2269,Kia Sportage,SUV,19,8.92,Card,Sara,5
+2025-05-26,CUST2270,Hyundai Elantra,SUV,52,26.54,Mobile Pay,Sara,4
+2025-05-21,CUST2271,Honda Civic,Truck,49,25.36,Cash,John,3
+2025-05-06,CUST2272,Honda Civic,Truck,12,6.11,Mobile Pay,John,3
+2025-05-22,CUST2273,Chevrolet Tahoe,Truck,35,18.16,Cash,Mike,4
+2025-05-07,CUST2274,Honda Civic,Sedan,43,21.3,Mobile Pay,Sara,4
+2025-05-29,CUST2275,Hyundai Elantra,SUV,20,10.15,Cash,John,5
+2025-05-22,CUST2276,BMW X5,Sedan,35,18.86,Card,Mike,4
+2025-05-11,CUST2277,Toyota Corolla,Sedan,59,30.05,Mobile Pay,John,4
+2025-05-20,CUST2278,Kia Sportage,Truck,20,9.61,Cash,Mike,5
+2025-05-14,CUST2279,Hyundai Elantra,SUV,17,8.97,Cash,Sara,4
+2025-05-18,CUST2280,Chevrolet Tahoe,SUV,46,23.38,Cash,Sara,5
+2025-05-31,CUST2281,Nissan Altima,Truck,41,21.67,Mobile Pay,Sara,3
+2025-05-06,CUST2282,Jeep Wrangler,Sedan,20,10.0,Card,Mike,5
+2025-05-02,CUST2283,Chevrolet Tahoe,Truck,51,25.76,Cash,Mike,5
+2025-05-08,CUST2284,Toyota Corolla,Truck,40,21.83,Cash,Ali,4
+2025-05-18,CUST2285,Kia Sportage,SUV,59,31.19,Mobile Pay,Sara,4
+2025-05-07,CUST2286,Jeep Wrangler,SUV,24,11.25,Mobile Pay,John,3
+2025-05-15,CUST2287,Chevrolet Tahoe,Sedan,35,16.77,Card,John,3
+2025-05-26,CUST2288,Chevrolet Tahoe,Truck,32,17.14,Cash,Mike,5
+2025-05-03,CUST2289,Jeep Wrangler,Truck,14,6.9,Cash,Ali,3
+2025-05-09,CUST2290,Honda Civic,Truck,53,26.09,Card,Ali,5
+2025-05-24,CUST2291,Jeep Wrangler,SUV,23,11.51,Mobile Pay,John,5
+2025-05-31,CUST2292,Jeep Wrangler,Sedan,44,23.2,Cash,John,5
+2025-05-08,CUST2293,Tesla Model 3,Sedan,48,23.95,Mobile Pay,Mike,5
+2025-05-04,CUST2294,Hyundai Elantra,Sedan,17,8.67,Card,Sara,5
+2025-05-21,CUST2295,Toyota Corolla,Truck,34,16.57,Cash,Ali,3
+2025-05-05,CUST2296,Kia Sportage,Truck,31,14.68,Card,John,5
+2025-05-14,CUST2297,Toyota Corolla,SUV,59,29.74,Mobile Pay,John,3
+2025-05-12,CUST2298,Honda Civic,SUV,38,18.68,Card,Mike,5
+2025-05-07,CUST2299,Hyundai Elantra,Truck,15,8.89,Mobile Pay,Sara,4
+2025-05-05,CUST2300,Nissan Altima,Truck,30,15.03,Card,Mike,4
+2025-05-25,CUST2301,Chevrolet Tahoe,Sedan,58,30.03,Card,John,4
+2025-05-07,CUST2302,Jeep Wrangler,SUV,21,11.83,Cash,Ali,3
+2025-05-28,CUST2303,Honda Civic,SUV,53,27.67,Mobile Pay,Sara,5
+2025-05-10,CUST2304,Ford F-150,SUV,58,29.98,Mobile Pay,Sara,3
+2025-05-03,CUST2305,Ford F-150,SUV,25,14.47,Mobile Pay,Ali,3
+2025-05-11,CUST2306,Hyundai Elantra,Sedan,39,19.39,Card,Mike,3
+2025-05-18,CUST2307,Chevrolet Tahoe,Truck,53,28.34,Mobile Pay,John,5
+2025-05-14,CUST2308,Kia Sportage,Truck,22,10.99,Mobile Pay,Sara,4
+2025-05-23,CUST2309,Tesla Model 3,SUV,50,26.59,Card,Mike,4
+2025-05-07,CUST2310,Tesla Model 3,Sedan,16,8.82,Card,Sara,4
+2025-05-01,CUST2311,Jeep Wrangler,SUV,40,19.06,Card,John,5
+2025-05-12,CUST2312,Jeep Wrangler,Truck,35,18.31,Cash,John,5
+2025-05-08,CUST2313,Honda Civic,SUV,47,22.63,Mobile Pay,John,4
+2025-05-10,CUST2314,BMW X5,SUV,49,26.45,Mobile Pay,Sara,5
+2025-05-25,CUST2315,Honda Civic,Truck,15,9.07,Mobile Pay,John,4
+2025-05-27,CUST2316,Honda Civic,Sedan,47,23.67,Card,Sara,5
+2025-05-27,CUST2317,Toyota Corolla,SUV,47,23.62,Mobile Pay,Ali,4
+2025-05-04,CUST2318,Toyota Corolla,Truck,39,20.92,Mobile Pay,Mike,4
+2025-05-11,CUST2319,Jeep Wrangler,SUV,59,29.72,Card,Ali,3
+2025-05-13,CUST2320,Ford F-150,SUV,54,27.39,Card,Mike,4
+2025-05-14,CUST2321,Nissan Altima,Sedan,10,6.34,Mobile Pay,Mike,4
+2025-05-10,CUST2322,Tesla Model 3,Truck,25,13.55,Card,Mike,3
+2025-05-08,CUST2323,Tesla Model 3,SUV,59,29.53,Card,Sara,5
+2025-05-22,CUST2324,Jeep Wrangler,Sedan,58,30.68,Mobile Pay,Sara,3
+2025-05-19,CUST2325,BMW X5,Truck,34,17.18,Card,John,4
+2025-05-10,CUST2326,BMW X5,Sedan,44,22.85,Mobile Pay,Sara,5
+2025-05-21,CUST2327,Nissan Altima,Sedan,53,27.49,Card,John,4
+2025-05-22,CUST2328,Nissan Altima,SUV,50,26.54,Mobile Pay,Sara,5
+2025-05-17,CUST2329,Nissan Altima,Truck,42,21.64,Cash,John,4
+2025-05-02,CUST2330,Kia Sportage,Sedan,29,16.02,Mobile Pay,John,5
+2025-05-23,CUST2331,Hyundai Elantra,Sedan,12,6.11,Mobile Pay,Sara,5
+2025-05-12,CUST2332,Tesla Model 3,Truck,19,11.06,Cash,Sara,5
+2025-05-08,CUST2333,Toyota Corolla,Truck,38,20.98,Cash,Sara,5
+2025-05-27,CUST2334,Nissan Altima,SUV,60,31.83,Cash,John,4
+2025-05-25,CUST2335,Nissan Altima,SUV,59,28.52,Mobile Pay,Sara,4
+2025-05-25,CUST2336,Toyota Corolla,Truck,12,6.05,Card,John,5
+2025-05-12,CUST2337,Hyundai Elantra,Truck,27,14.75,Mobile Pay,Ali,4
+2025-05-10,CUST2338,Hyundai Elantra,Truck,49,24.38,Mobile Pay,Sara,5
+2025-05-01,CUST2339,BMW X5,Sedan,24,11.38,Cash,Ali,3
+2025-05-21,CUST2340,Tesla Model 3,SUV,27,12.55,Cash,Mike,5
+2025-05-31,CUST2341,Honda Civic,Truck,19,9.61,Card,Ali,4
+2025-05-29,CUST2342,Ford F-150,Truck,17,9.57,Card,John,4
+2025-05-09,CUST2343,Chevrolet Tahoe,Truck,15,6.84,Mobile Pay,Sara,5
+2025-05-05,CUST2344,Tesla Model 3,SUV,10,5.04,Mobile Pay,Ali,5
+2025-05-20,CUST2345,Kia Sportage,Truck,47,22.53,Mobile Pay,Sara,3
+2025-05-16,CUST2346,Nissan Altima,SUV,47,23.17,Card,Sara,3
+2025-05-08,CUST2347,Jeep Wrangler,Sedan,49,23.97,Mobile Pay,Mike,4
+2025-05-02,CUST2348,Toyota Corolla,SUV,13,6.95,Cash,John,3
+2025-05-21,CUST2349,Toyota Corolla,Truck,56,28.35,Mobile Pay,John,5
+2025-05-19,CUST2350,Kia Sportage,Truck,55,27.52,Card,Sara,4
+2025-05-21,CUST2351,Jeep Wrangler,Truck,45,24.02,Cash,Sara,3
+2025-05-13,CUST2352,Chevrolet Tahoe,SUV,26,14.6,Mobile Pay,Ali,5
+2025-05-02,CUST2353,Jeep Wrangler,SUV,36,18.83,Mobile Pay,John,4
+2025-05-24,CUST2354,Jeep Wrangler,Truck,49,23.96,Mobile Pay,Ali,3
+2025-05-10,CUST2355,Hyundai Elantra,Sedan,46,23.82,Mobile Pay,John,5
+2025-05-18,CUST2356,Kia Sportage,Sedan,37,18.23,Cash,Ali,3
+2025-05-21,CUST2357,Toyota Corolla,SUV,19,10.27,Cash,Ali,5
+2025-05-09,CUST2358,Toyota Corolla,Truck,20,11.69,Mobile Pay,Mike,5
+2025-05-04,CUST2359,Chevrolet Tahoe,Truck,54,26.27,Card,Ali,5
+2025-05-01,CUST2360,Honda Civic,SUV,40,20.91,Cash,John,3
+2025-05-06,CUST2361,BMW X5,SUV,18,9.15,Card,Mike,4
+2025-05-05,CUST2362,Ford F-150,Sedan,39,19.22,Cash,Sara,4
+2025-05-25,CUST2363,Honda Civic,Truck,12,7.74,Cash,John,3
+2025-05-30,CUST2364,Toyota Corolla,SUV,19,9.89,Mobile Pay,Ali,3
+2025-05-16,CUST2365,Kia Sportage,Truck,14,8.71,Mobile Pay,John,4
+2025-05-17,CUST2366,BMW X5,Sedan,46,23.84,Cash,Sara,4
+2025-05-24,CUST2367,Nissan Altima,SUV,59,30.74,Cash,Ali,5
+2025-05-30,CUST2368,Tesla Model 3,SUV,51,25.78,Card,Ali,3
+2025-05-04,CUST2369,Ford F-150,SUV,56,28.03,Mobile Pay,John,4
+2025-05-26,CUST2370,BMW X5,SUV,28,14.41,Card,Mike,5
+2025-05-23,CUST2371,Honda Civic,SUV,22,12.24,Card,Ali,5
+2025-05-04,CUST2372,Ford F-150,Truck,48,24.88,Cash,Sara,4
+2025-05-27,CUST2373,BMW X5,SUV,58,29.58,Card,Sara,4
+2025-05-05,CUST2374,Toyota Corolla,Sedan,20,9.44,Mobile Pay,Sara,3
+2025-05-16,CUST2375,Hyundai Elantra,Sedan,41,22.19,Card,Ali,4
+2025-05-23,CUST2376,BMW X5,Sedan,31,15.48,Cash,Sara,4
+2025-05-20,CUST2377,Tesla Model 3,Truck,17,9.93,Card,Sara,5
+2025-05-10,CUST2378,Honda Civic,SUV,37,17.98,Card,Sara,3
+2025-05-24,CUST2379,Jeep Wrangler,SUV,44,21.75,Cash,John,4
+2025-05-26,CUST2380,BMW X5,SUV,27,15.12,Mobile Pay,John,3
+2025-05-01,CUST2381,Ford F-150,Truck,40,19.29,Mobile Pay,Sara,4
+2025-05-07,CUST2382,Tesla Model 3,SUV,40,21.77,Cash,Mike,5
+2025-05-19,CUST2383,Jeep Wrangler,Sedan,46,22.4,Cash,John,3
+2025-05-18,CUST2384,Jeep Wrangler,SUV,28,14.94,Mobile Pay,Mike,4
+2025-05-04,CUST2385,Tesla Model 3,Sedan,24,12.54,Mobile Pay,Ali,4
+2025-05-04,CUST2386,Jeep Wrangler,Sedan,47,24.17,Card,Ali,4
+2025-05-02,CUST2387,Honda Civic,SUV,59,28.73,Mobile Pay,Ali,4
+2025-05-31,CUST2388,Nissan Altima,Sedan,21,11.88,Cash,Sara,4
+2025-05-02,CUST2389,Toyota Corolla,Sedan,36,17.8,Cash,Sara,3
+2025-05-15,CUST2390,BMW X5,Sedan,16,9.95,Mobile Pay,Mike,3
+2025-05-10,CUST2391,Honda Civic,Truck,43,20.67,Card,Sara,4
+2025-05-08,CUST2392,Honda Civic,SUV,51,25.78,Mobile Pay,Mike,4
+2025-05-07,CUST2393,Honda Civic,Truck,50,26.76,Mobile Pay,Ali,4
+2025-05-03,CUST2394,Jeep Wrangler,SUV,47,25.45,Cash,John,3
+2025-05-12,CUST2395,Chevrolet Tahoe,SUV,39,19.67,Mobile Pay,John,4
+2025-05-20,CUST2396,Hyundai Elantra,Sedan,51,26.38,Card,Ali,3
+2025-05-28,CUST2397,Honda Civic,Sedan,37,18.51,Cash,Sara,4
+2025-05-11,CUST2398,Tesla Model 3,Sedan,18,8.86,Cash,John,4
+2025-05-05,CUST2399,Honda Civic,Sedan,32,17.02,Card,Ali,4
